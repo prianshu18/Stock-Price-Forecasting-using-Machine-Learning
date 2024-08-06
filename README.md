@@ -1,4 +1,4 @@
-# Stock-Price-Forecasting-using-Machine-Learning
+# Stock Price Forecasting using Machine Learning
 This project focuses on predicting the stock prices of Apple Inc. (AAPL) using a Stacked Long Short-Term Memory (LSTM) model. The approach involves several key steps:
 
 Data Collection: Historical stock price data for Apple Inc. is fetched using the yfinance library and saved to a CSV file.
@@ -40,4 +40,12 @@ Some more basics of stocks
 Dividends are payments made by corporations to their shareholders, usually derived from profits. So it is basically Return on Investment.
 DPS = Total div/ number of outstanding shares.
 MCAP = Stock Price * Number of outstanding shares
-PE ratio is the price to earning ratio, it is used to evaluate a company stock performance, price/earnings per share, so high pe ratio means higher growth or overvalued in future and low means undevalued or experiencing difficulties
+PE ratio is the price to earning ratio, it is used to evaluate a company stock performance, price/earnings per share, so high pe ratio means higher growth or overvalued in future and low means undevalued or experiencing difficulties.
+
+# Results
+
+Please refer to the image below, it shows the actual prices versus the predicted prices of stock over time!
+
+
+<img width="1028" alt="LSTM Results" src="https://github.com/user-attachments/assets/b414eb9c-1b0e-4234-a401-731b5d08b452">
+
