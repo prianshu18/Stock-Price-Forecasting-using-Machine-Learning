@@ -17,6 +17,9 @@ The project demonstrates the application of deep learning techniques to time ser
 
 # Description of Dataset
 
+We are using the AAPL Dataset of stock prices derived from Tingo in Pandas Datareader Library using API Keys.
+It contains of roughly 10,900 instances of data.
+Number of features - 8, More can be derived
 Features explanation: Date - Date of trading day.
 Open - Opening price of stock on that day
 High - Highest price of the stock on that day
